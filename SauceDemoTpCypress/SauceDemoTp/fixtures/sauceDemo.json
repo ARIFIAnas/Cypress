@@ -1,0 +1,18 @@
+{
+"browser": "chrome",
+"url":    "https://www.saucedemo.com/",
+"username":    "standard_user",
+"locked_username":   "locked_out_user" ,   
+"password":    "secret_sauce",
+"PRODUCTS_PAGE_URL":    "https://www.saucedemo.com/inventory.html",
+"TITLE_XPATH":  "//span[@data-test='title']",
+"EXPECTED_TITLE": "Products",
+"list_sort":    "hilo",
+"cart_url":    "https://www.saucedemo.com/cart.html",
+"fname":    "Cristiano",
+"lname":    "Ronaldo",
+"zcode":   20000,
+"checkout_url":   "https://www.saucedemo.com/checkout-step-one.html",
+"confirm_url":    "https://www.saucedemo.com/checkout-step-two.html",
+"complete_url":    "https://www.saucedemo.com/checkout-complete.html"
+}
